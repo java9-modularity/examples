@@ -1,0 +1,3 @@
+module authors {
+  requires books;
+}

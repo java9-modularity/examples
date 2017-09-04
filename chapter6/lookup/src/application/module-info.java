@@ -1,0 +1,3 @@
+module application {
+   requires ormframework;
+}

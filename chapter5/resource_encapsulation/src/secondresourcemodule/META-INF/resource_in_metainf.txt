@@ -1,0 +1,1 @@
+A resource in a the META-INF directory

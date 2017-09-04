@@ -1,0 +1,8 @@
+README
+======
+
+You can run this application like this
+
+ mvn exec:exec -Deasytext.file=/path/to/some/file.adoc
+ 
+When `easytext.file` is not specified, this `README.adoc` file is used to analyze.
