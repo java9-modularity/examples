@@ -25,7 +25,7 @@ CP+=lib/spring-expression-4.3.2.RELEASE.jar:
 CP+=lib/spring-jdbc-4.3.2.RELEASE.jar:
 CP+=lib/spring-orm-4.3.2.RELEASE.jar
 
-javac -cp $CP \
+$JAVA_HOME/bin/javac -cp $CP \
       --module-path mods \
       --add-modules java.naming \
       -d out         \
@@ -34,7 +34,7 @@ javac -cp $CP \
 
 cp $(find src -name '*.xml') out/bookapp
 
-java -cp $CP \
+$JAVA_HOME/bin/java -cp $CP \
      --module-path mods:out       \
      --add-modules java.xml.bind,java.sql \
      --add-opens java.base/java.lang=javassist \

@@ -1,0 +1,1 @@
+This is the code for the Jackson example before migration, where the code still lives on the classpath.

@@ -1,0 +1,1 @@
+This example demonstrates the need for `requires transitive`. The example demonstrates the error, so it does not compile without changes.

@@ -11,7 +11,13 @@ public class Main {
     FastJson fastJson =
       ServiceLoader.load(FastJson.class)
                    .findFirst()
-                   .orElse(getFallBack())
+                   .orElse(getFallBack());
+
+      if(fastJson == null) {
+        System.out.println("Using a fallback");
+      } else {
+        System.out.println("Found a service");
+      }
   }
 
   private static FastJson getFallBack() {

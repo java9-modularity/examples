@@ -1,0 +1,1 @@
+This example demonstrates the use of automatic modules.

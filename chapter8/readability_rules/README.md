@@ -1,0 +1,1 @@
+This example demonstrates the error that happens when a type is used from a transitive dependency of a automatic module, while that dependency is still on the classpath.

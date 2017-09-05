@@ -1,0 +1,1 @@
+This example demonstrates an alternative approach for optional dependencies based on services.

@@ -1,0 +1,1 @@
+This example demonstrates EasyText split into a cli and analysis module.

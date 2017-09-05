@@ -1,0 +1,1 @@
+This example demonstrates the error shown when compiling against a now encapsulated type, even when running on the classpath.

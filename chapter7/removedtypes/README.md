@@ -1,0 +1,1 @@
+This example shows the error that occurs when compiling against a removed type such as `sun.misc.BASE64Decoder`.

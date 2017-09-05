@@ -1,0 +1,2 @@
+This example is the Spring/Hibernate application before migration. All code and dependnecies are still on the classpath.
+Use this example as a starting point if you want to follow along with the migration case study in the book.

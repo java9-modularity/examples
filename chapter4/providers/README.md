@@ -1,0 +1,2 @@
+This example demonstrates the use of service provider methods.
+The `provider.factory.example` uses a provider method on a separate class to provide a service instance, while `provider.method.example` uses a provider method on the service implementation itself.

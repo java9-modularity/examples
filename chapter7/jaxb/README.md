@@ -1,0 +1,1 @@
+This example demonstrates how to use JAXB by using --add-modules explicitly when compiling and running on the classpath.

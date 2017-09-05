@@ -1,0 +1,1 @@
+This example shows EasyText as a single module.

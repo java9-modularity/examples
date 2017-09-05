@@ -1,0 +1,1 @@
+This is an exmaple of using an (custom) annotation on a module definition.

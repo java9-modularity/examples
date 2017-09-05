@@ -1,0 +1,1 @@
+This example shows a plugin system that loads plugin modules dynamically from directories.

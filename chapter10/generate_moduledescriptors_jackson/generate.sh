@@ -1,1 +1,1 @@
-jdeps --generate-module-info ./out *.jar
+$JAVA_HOME/bin/jdeps --generate-module-info ./out *.jar

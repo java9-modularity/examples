@@ -1,0 +1,1 @@
+This example demonstrates that the classpath still exists. We can build and run code without modules.

@@ -1,0 +1,1 @@
+This example shows using jdeps to generate module descriptors for a set of libraries.

@@ -1,0 +1,1 @@
+This example is a minimal single module Maven setup.

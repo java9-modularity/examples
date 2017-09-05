@@ -1,0 +1,1 @@
+This example demonstrates testing modules from the outside (blackbox testing). The tests live in their own module.

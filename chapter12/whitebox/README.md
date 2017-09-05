@@ -1,0 +1,2 @@
+This example demonstrates testing code in a module without respecting the module boundaries (whitebox testing).
+There's both an example of whitebox testing by using the classpath, and an example that uses the module-path with extra flags to break encapsulation.

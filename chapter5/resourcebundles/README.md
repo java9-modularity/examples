@@ -1,0 +1,1 @@
+This example demonstrates providing resources from a module using services and the `ResourceBundleProvider` API.

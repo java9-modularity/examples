@@ -1,0 +1,1 @@
+This example demonstrates the use of the new VarHandles and MethodHandles that are introduced to replace reflection.

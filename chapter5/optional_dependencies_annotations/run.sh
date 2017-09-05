@@ -1,4 +1,4 @@
-javac --module-source-path src -d out $(find . -name '*.java')
+javac --module-source-path src -d out -m application,schemagenerator
 
 # Exclude myannotations module from the run-time classpath
 java -ea --module-path out/application -m application/javamodularity.application.Main
