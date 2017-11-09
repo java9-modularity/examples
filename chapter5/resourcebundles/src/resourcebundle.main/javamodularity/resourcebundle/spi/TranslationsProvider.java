@@ -1,4 +1,4 @@
-package javamodularity.resourcebundle;
+package javamodularity.resourcebundle.spi;
 
 import java.util.spi.ResourceBundleProvider;
 

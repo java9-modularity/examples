@@ -1,6 +1,6 @@
 module resourcebundle.main {
-  exports javamodularity.resourcebundle;
+  exports javamodularity.resourcebundle.spi;
 
-  uses javamodularity.resourcebundle.TranslationsProvider;
+  uses javamodularity.resourcebundle.spi.TranslationsProvider;
 
 }

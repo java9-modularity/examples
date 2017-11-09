@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 import java.util.spi.AbstractResourceBundleProvider;
 
-import javamodularity.resourcebundle.TranslationsProvider;
+import javamodularity.resourcebundle.spi.TranslationsProvider;
 
 public class DutchTranslationsProvider extends AbstractResourceBundleProvider
                                        implements TranslationsProvider {
