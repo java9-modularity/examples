@@ -16,6 +16,6 @@ The examples are grouped by chapter in the book:
 12. Testing Modules
 
 Most examples contain a `run.sh` file to compile and run the example.
-The scripts are tested on Mac OS and Linux. Windows users can use the Linux Subsystem for Windows, or use something like Cygwin to run the scripts.
-Some examples demonstrate errors, which means that compiling or running them may fail by purpose.
-A README is available in each example directory to examplain the example.
+The scripts are tested on Mac OS and Linux. Windows users can use the Linux Subsystem for Windows, or use Cygwin to run the scripts.
+Some examples demonstrate errors, which means that compiling or running them may fail on purpose.
+A README is available in each example directory to explain the example.
