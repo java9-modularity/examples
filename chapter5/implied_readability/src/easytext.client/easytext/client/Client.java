@@ -10,7 +10,7 @@ public class Client {
       TextRepository repository = ServiceLoader.load(TextRepository.class)
          .iterator().next();
 
-      repository.findText("HHGTTG").toString();
+      repository.findText("HHGTTG").wordcount();
    }
 
 }
