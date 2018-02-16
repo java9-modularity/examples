@@ -14,8 +14,8 @@
 
   <dependencies>
     <dependency>
-        <groupId>easytext</groupId>
-        <artifactId>algorithm.api</artifactId>
+      <groupId>easytext</groupId>
+      <artifactId>algorithm.api</artifactId>
     </dependency>
   </dependencies>
 </project>

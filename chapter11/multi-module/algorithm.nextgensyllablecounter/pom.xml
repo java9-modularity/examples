@@ -14,14 +14,14 @@
 
   <dependencies>
     <dependency>
-        <groupId>easytext</groupId>
-        <artifactId>algorithm.api</artifactId>
+      <groupId>easytext</groupId>
+      <artifactId>algorithm.api</artifactId>
     </dependency>
 
     <dependency>
-        <groupId>eu.crydee</groupId>
-        <artifactId>syllable-counter</artifactId>
-        <version>3.0.1</version>
+      <groupId>eu.crydee</groupId>
+      <artifactId>syllable-counter</artifactId>
+      <version>3.0.1</version>
     </dependency>
   </dependencies>
 </project>

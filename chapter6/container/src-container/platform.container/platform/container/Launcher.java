@@ -23,7 +23,7 @@ public class Launcher {
 
   public static void main(String... args) {
     System.out.println("Starting container");
-ModuleLayer.boot().modules().forEach(m -> System.out.println(m.getName() + ", loader: " + m.getClassLoader()));
+    ModuleLayer.boot().modules().forEach(m -> System.out.println(m.getName() + ", loader: " + m.getClassLoader()));
     deployedApps = new ContainerApplication[args.length];
     apps = new AppDescriptor[args.length];
     for (int i = 0; i < args.length; i++)
